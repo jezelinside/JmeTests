@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jme3-lib:jbullet:3.0.10-jme">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/jbullet/3.0.10-jme/jbullet-3.0.10-jme.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/jbullet/3.0.10-jme/jbullet-3.0.10-jme-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/jbullet/3.0.10-jme/jbullet-3.0.10-jme-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

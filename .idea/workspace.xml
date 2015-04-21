@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98827b60-bc33-4677-8d30-440b2c1dfa4e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_blender_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_core_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_desktop_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_effects_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_jbullet_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_jogg_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_networking_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_niftygui_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_plugins_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jme3_jme3_terrain_3_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/JME3TestsTemplate.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/config.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/TestChooser.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/TestChooser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/animation/SubtitleTrack.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/animation/SubtitleTrack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/animation/TestCameraMotionPath.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/animation/TestCameraMotionPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/animation/TestCinematic.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/animation/TestCinematic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/animation/TestJaime.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/animation/TestJaime.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/animation/TestMotionPath.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/animation/TestMotionPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestAppStateLifeCycle.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestAppStateLifeCycle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestApplication.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestBareBonesApp.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestBareBonesApp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestChangeAppIcon.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestChangeAppIcon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestContextRestart.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestContextRestart.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestCustomAppSettings.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestCustomAppSettings.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestIDList.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestIDList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestReleaseDirectMemory.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestReleaseDirectMemory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestTempVars.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestTempVars.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/TestUseAfterFree.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/TestUseAfterFree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/state/RootNodeState.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/state/RootNodeState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/app/state/TestAppStates.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/app/state/TestAppStates.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TestAbsoluteLocators.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TestAbsoluteLocators.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TestAssetCache.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TestAssetCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TestCustomLoader.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TestCustomLoader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TestManyLocators.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TestManyLocators.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TestOnlineJar.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TestOnlineJar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TestUrlLoading.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TestUrlLoading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/asset/TextLoader.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/asset/TextLoader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestAmbient.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestAmbient.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestDoppler.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestDoppler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestMusicPlayer.form" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestMusicPlayer.form" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestMusicPlayer.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestMusicPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestMusicStreaming.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestMusicStreaming.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestOgg.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestOgg.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestReverb.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestReverb.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/audio/TestWav.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/audio/TestWav.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/awt/AppHarness.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/awt/AppHarness.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/awt/TestApplet.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/awt/TestApplet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/awt/TestAwtPanels.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/awt/TestAwtPanels.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/awt/TestCanvas.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/awt/TestCanvas.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/awt/TestSafeCanvas.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/awt/TestSafeCanvas.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/batching/TestBatchNode.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/batching/TestBatchNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/batching/TestBatchNodeCluster.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/batching/TestBatchNodeCluster.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/batching/TestBatchNodeTower.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/batching/TestBatchNodeTower.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/blender/TestBlenderLoader.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/blender/TestBlenderLoader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bounding/TestRayCollision.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bounding/TestRayCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/BombControl.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/BombControl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/PhysicsHoverControl.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/PhysicsHoverControl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/PhysicsTestHelper.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/PhysicsTestHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestAttachDriver.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestAttachDriver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestAttachGhostObject.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestAttachGhostObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestBetterCharacter.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestBetterCharacter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestBoneRagdoll.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestBoneRagdoll.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestBrickTower.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestBrickTower.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestBrickWall.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestBrickWall.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestCcd.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestCcd.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestCollisionGroups.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestCollisionGroups.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestCollisionListener.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestCollisionListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestCollisionShapeFactory.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestCollisionShapeFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestFancyCar.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestFancyCar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestGhostObject.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestGhostObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestHoveringTank.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestHoveringTank.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestKinematicAddToPhysicsSpaceIssue.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestKinematicAddToPhysicsSpaceIssue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestLocalPhysics.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestLocalPhysics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestPhysicsCar.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestPhysicsCar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestPhysicsCharacter.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestPhysicsCharacter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestPhysicsHingeJoint.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestPhysicsHingeJoint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestPhysicsRayCast.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestPhysicsRayCast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestPhysicsReadWrite.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestPhysicsReadWrite.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestQ3.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestQ3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestRagDoll.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestRagDoll.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestRagdollCharacter.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestRagdollCharacter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestSimplePhysics.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestSimplePhysics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestSweepTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestSweepTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/bullet/TestWalkingChar.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/bullet/TestWalkingChar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/collision/RayTrace.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/collision/RayTrace.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/collision/TestMousePick.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/collision/TestMousePick.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/collision/TestRayCasting.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/collision/TestRayCasting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/collision/TestTriangleCollision.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/collision/TestTriangleCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/conversion/TestMipMapGen.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/conversion/TestMipMapGen.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/conversion/TestTriangleStrip.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/conversion/TestTriangleStrip.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/effect/TestEverything.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/effect/TestEverything.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/effect/TestExplosionEffect.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/effect/TestExplosionEffect.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/effect/TestMovingParticle.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/effect/TestMovingParticle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/effect/TestParticleExportingCloning.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/effect/TestParticleExportingCloning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/effect/TestPointSprite.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/effect/TestPointSprite.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/effect/TestSoftParticles.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/effect/TestSoftParticles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/export/TestAssetLinkNode.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/export/TestAssetLinkNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/export/TestOgreConvert.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/export/TestOgreConvert.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/games/CubeField.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/games/CubeField.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/games/WorldOfInception.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/games/WorldOfInception.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/gui/TestBitmapFont.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/gui/TestBitmapFont.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/gui/TestBitmapText3D.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/gui/TestBitmapText3D.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/gui/TestCursor.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/gui/TestCursor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/gui/TestOrtho.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/gui/TestOrtho.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/gui/TestSoftwareMouse.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/gui/TestSoftwareMouse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/gui/TestZOrder.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/gui/TestZOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloAnimation.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloAnimation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloAssets.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloAssets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloAudio.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloAudio.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloCollision.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloEffects.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloEffects.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloInput.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloInput.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloJME3.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloJME3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloLoop.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloLoop.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloMaterial.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloMaterial.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloNode.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloPhysics.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloPhysics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloPicking.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloPicking.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloTerrain.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloTerrain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/helloworld/HelloTerrainCollision.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/helloworld/HelloTerrainCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/TestCameraNode.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/TestCameraNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/TestChaseCamera.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/TestChaseCamera.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/TestControls.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/TestControls.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/TestJoystick.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/TestJoystick.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/combomoves/ComboMove.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/combomoves/ComboMove.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/combomoves/ComboMoveExecution.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/combomoves/ComboMoveExecution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/input/combomoves/TestComboMoves.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/input/combomoves/TestComboMoves.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/ShadowTestUIManager.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/ShadowTestUIManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestDirectionalLightShadow.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestDirectionalLightShadow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestEnvironmentMapping.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestEnvironmentMapping.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestLightNode.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestLightNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestLightRadius.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestLightRadius.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestManyLights.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestManyLights.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestPointLightShadows.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestPointLightShadows.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestPssmShadow.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestPssmShadow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestShadow.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestShadow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestShadowsPerf.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestShadowsPerf.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestSimpleLighting.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestSimpleLighting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestSpotLight.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestSpotLight.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestSpotLightShadows.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestSpotLightShadows.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestSpotLightTerrain.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestSpotLightTerrain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestTangentGen.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestTangentGen.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestTangentGenBadModels.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestTangentGenBadModels.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestTangentGenBadUV.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestTangentGenBadUV.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/light/TestTransparentShadow.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/light/TestTransparentShadow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestBumpModel.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestBumpModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestColoredTexture.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestColoredTexture.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestMaterialCompare.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestMaterialCompare.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestNormalMapping.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestNormalMapping.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestParallax.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestParallax.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestShaderNodes.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestShaderNodes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestSimpleBumps.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestSimpleBumps.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/material/TestUnshadedModel.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/material/TestUnshadedModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/math/TestHalfFloat.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/math/TestHalfFloat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/TestHoverTank.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/TestHoverTank.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/TestMonkeyHead.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/TestMonkeyHead.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/TestObjLoading.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/TestObjLoading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/TestOgreLoading.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/TestOgreLoading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestAnimBlendBug.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestAnimBlendBug.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestAnimationFactory.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestAnimationFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestBlenderAnim.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestBlenderAnim.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestBlenderObjectAnim.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestBlenderObjectAnim.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestCustomAnim.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestCustomAnim.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestHWSkinning.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestHWSkinning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestOgreAnim.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestOgreAnim.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestOgreComplexAnim.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestOgreComplexAnim.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/anim/TestSpatialAnim.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/anim/TestSpatialAnim.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestBillboard.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestBillboard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestBox.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestBox.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestCustomMesh.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestCustomMesh.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestCylinder.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestCylinder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestDebugShapes.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestDebugShapes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestExpandingTorus.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestExpandingTorus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/model/shape/TestSphere.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/model/shape/TestSphere.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/MovingAverage.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/MovingAverage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestChatClient.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestChatClient.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestChatServer.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestChatServer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestLatency.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestLatency.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestMessages.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestMessages.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestNetworkStress.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestNetworkStress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestRemoteCall.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestRemoteCall.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestSerialization.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestSerialization.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/network/TestThroughput.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/network/TestThroughput.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/niftygui/TestNiftyExamples.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/niftygui/TestNiftyExamples.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/niftygui/TestNiftyGui.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/niftygui/TestNiftyGui.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/niftygui/TestNiftyToMesh.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/niftygui/TestNiftyToMesh.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/BloomUI.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/BloomUI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/LightScatteringUI.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/LightScatteringUI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/SSAOUI.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/SSAOUI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestBloom.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestBloom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestCartoonEdge.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestCartoonEdge.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestCrossHatch.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestCrossHatch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestDepthOfField.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestDepthOfField.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestFBOPassthrough.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestFBOPassthrough.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestFog.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestFog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestHDR.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestHDR.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestLightScattering.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestLightScattering.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestMultiRenderTarget.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestMultiRenderTarget.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestMultiViewsFilters.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestMultiViewsFilters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestMultiplesFilters.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestMultiplesFilters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestPostFilters.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestPostFilters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestPostFiltersCompositing.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestPostFiltersCompositing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestPosterization.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestPosterization.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestRenderToCubemap.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestRenderToCubemap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestRenderToMemory.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestRenderToMemory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestRenderToTexture.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestRenderToTexture.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestSSAO.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestSSAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestTransparentCartoonEdge.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestTransparentCartoonEdge.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/post/TestTransparentSSAO.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/post/TestTransparentSSAO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/renderer/TestMultiViews.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/renderer/TestMultiViews.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/renderer/TestParallelProjection.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/renderer/TestParallelProjection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/scene/TestSceneLoading.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/scene/TestSceneLoading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/scene/TestUserData.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/scene/TestUserData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/stress/TestBatchLod.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/stress/TestBatchLod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/stress/TestLeakingGL.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/stress/TestLeakingGL.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/stress/TestLodGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/stress/TestLodGeneration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/stress/TestLodStress.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/stress/TestLodStress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainFractalGridTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainFractalGridTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainGridAlphaMapTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainGridAlphaMapTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainGridSerializationTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainGridSerializationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainGridTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainGridTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainGridTileLoaderTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainGridTileLoaderTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTest.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTestAdvanced.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTestAdvanced.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTestAndroid.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTestAndroid.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTestCollision.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTestCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTestModifyHeight.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTestModifyHeight.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTestReadWrite.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTestReadWrite.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/terrain/TerrainTestTile.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/terrain/TerrainTestTile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/TestImageRaster.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/TestImageRaster.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/TestSkyLoading.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/TestSkyLoading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/TestTexture3D.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/TestTexture3D.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/TestTexture3DLoading.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/TestTexture3DLoading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/TestTextureArray.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/TestTextureArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/UnshadedArray.frag" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/UnshadedArray.frag" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/UnshadedArray.j3md" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/UnshadedArray.j3md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/UnshadedArray.vert" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/UnshadedArray.vert" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/tex3D.frag" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/tex3D.frag" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/tex3D.j3md" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/tex3D.j3md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/tex3D.vert" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/tex3D.vert" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/tex3DThumb.frag" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/tex3DThumb.frag" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/tex3DThumb.j3md" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/tex3DThumb.j3md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/texture/tex3DThumb.vert" afterPath="$PROJECT_DIR$/src/main/java/jme3test/texture/tex3DThumb.vert" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/tools/TestOctree.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/tools/TestOctree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/tools/TestSaveGame.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/tools/TestSaveGame.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/tools/TestTextureAtlas.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/tools/TestTextureAtlas.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/water/TestMultiPostWater.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/water/TestMultiPostWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/water/TestPostWater.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/water/TestPostWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/water/TestPostWaterLake.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/water/TestPostWaterLake.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/water/TestSceneWater.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/water/TestSceneWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/water/TestSimpleWater.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/water/TestSimpleWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/jme3test/water/WaterUI.java" afterPath="$PROJECT_DIR$/src/main/java/jme3test/water/WaterUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="JmeTests.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JmeTests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/jme3test/TestChooser.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1922" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UseJBColor</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JmeTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JmeTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JmeTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JmeTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jme3test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JmeTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestChooser">
+    <configuration default="false" name="TestChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jme3test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jme3test.TestChooser" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JmeTests" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestChooser" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestChooser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98827b60-bc33-4677-8d30-440b2c1dfa4e" name="Default" comment="" />
+      <created>1429571118487</created>
+      <option name="number" value="Default" />
+      <updated>1429571118487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27193934" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16453674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jme3test/TestChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="245" column="29" selection-start-line="245" selection-start-column="29" selection-end-line="245" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk/src.zip!/javax/swing/event/ListSelectionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42093542">
+          <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6026786">
+          <caret line="59" column="72" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jme3test/audio/TestDoppler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39527026">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jme3test/light/TestDirectionalLightShadow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4864865">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jme3/jme3-core/3.0.10/jme3-core-3.0.10.jar!/com/jme3/asset/AssetManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44444445">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jme3/jme3-core/3.0.10/jme3-core-3.0.10.jar!/com/jme3/app/Application.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31746033">
+          <caret line="88" column="69" selection-start-line="88" selection-start-column="55" selection-end-line="88" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jme3test/TestChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9949324">
+          <caret line="233" column="10" selection-start-line="233" selection-start-column="10" selection-end-line="233" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JmeTests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.jme3-lib:jbullet:3.0.10-jme</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

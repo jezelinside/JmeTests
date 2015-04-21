@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>nz.jaggerfall</groupId>
+    <artifactId>JmeTests</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <version.jme>3.0.10</version.jme>
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>jme</id>
+            <name>JMonkeyEngine official repository</name>
+            <url>http://updates.jmonkeyengine.org/maven</url>
+        </repository>
+    </repositories>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.3</version>
+                <configuration>
+                    <compilerVersion>1.8</compilerVersion>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <fork>true</fork>
+                    <executable>${JDK_1_8}/bin/javac</executable>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-core</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-effects</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-networking</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-plugins</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-jogg</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-terrain</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-blender</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-jbullet</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-lwjgl</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-niftygui</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jme3</groupId>
+            <artifactId>jme3-desktop</artifactId>
+            <version>${version.jme}</version>
+        </dependency>
+    </dependencies>
+</project>

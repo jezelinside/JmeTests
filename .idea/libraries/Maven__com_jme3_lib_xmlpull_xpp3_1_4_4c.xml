@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jme3-lib:xmlpull-xpp3:1.4.4c">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/xmlpull-xpp3/1.4.4c/xmlpull-xpp3-1.4.4c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/xmlpull-xpp3/1.4.4c/xmlpull-xpp3-1.4.4c-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/xmlpull-xpp3/1.4.4c/xmlpull-xpp3-1.4.4c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
